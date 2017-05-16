@@ -1,0 +1,391 @@
+Palermo
+Catania
+Messina
+Siracusa
+Marsala
+Gela
+Ragusa
+Trapani
+Vittoria
+Caltanissetta Sciacca
+Agrigento
+Modica
+Mazara del Vallo
+Paterno'
+Misterbianco
+Alcamo
+Monterosso Almo
+Adrano
+Enna
+Biancavilla
+Giarratana
+Alessandria Della Rocca
+Aragona
+Calamonaci
+Caltabellotta
+Camastra
+Cammarata
+Campobello Di Licata
+Canicattì
+Casteltermini
+Castrofilippo
+Cattolica Eraclea
+Cianciana
+Comitini
+Favara
+Grotte
+Joppolo Giancaxio
+Lampedusa
+Linosa
+Licata
+Lucca Sicula
+Menfi
+Montallegro
+Montevago
+Naro
+Palma Di Montechiaro
+Porto Empedocle
+Racalmuto
+Raffadali
+Ravanusa
+Realmonte
+Ribera
+Sambuca Di Sicilia
+San Biagio Platani
+San Giovanni Gemini
+Santa Elisabetta
+Santa Margherita Di Belice
+Sant'Angelo Muxaro
+Santo Stefano Di Quisquina
+Sciacca
+Siculiana
+Villafranca Sicula
+Caltanissetta
+Acquaviva Platani
+Bompensiere
+Butera
+Campofranco
+Delia
+Marianopoli
+Mazzarino
+Milena
+Montedoro
+Mussomeli
+Niscemi
+Resuttano
+Riesi
+San Cataldo
+Santa Caterina Villarmosa
+Serradifalco
+Sommatino
+Sutera
+Vallelunga Pratameno
+Villalba
+Aci Bonaccorsi
+Aci Castello
+Aci Catena
+Acireale
+Aci Sant'Antonio
+Belpasso
+Bronte
+Calatabiano
+Caltagirone
+Camporotondo Etneo
+Castel Di Judica
+Castiglione Di Sicilia
+Fiumefreddo Di Sicilia
+Giarre
+Grammichele
+Gravina Di Catania
+Licodia Eubea
+Linguaglossa
+Maletto
+Maniace
+Mascali
+Mascalucia
+Mazzarone
+Militello In Val Di Catania
+Milo
+Mineo
+Mirabella Imbaccari
+Motta Sant'Anastasia
+Nicolosi
+Palagonia
+Pedara
+Piedimonte Etneo
+Raddusa
+Ragalna
+Ramacca
+Randazzo
+Riposto
+San Cono
+San Giovanni La Punta
+San Gregorio Di Catania
+San Michele Di Ganzaria
+San Pietro Clarenza
+Sant'Agata Li Battiati
+Sant'Alfio
+Santa Maria Di Licodia
+Santa Venerina
+Scordia
+Trecastagni
+Tremestieri Etneo
+Valverde
+Viagrande
+Vizzini
+Zafferana Etnea
+Agira
+Aidone
+Assoro
+Barrafanca
+Calascibetta
+Catenanuova
+Centuripe
+Cerami
+Gagliano Castelferrato
+Leonforte
+Nicosia
+Nissoria
+Piazza Armerina
+Pietraperzia
+Regalbuto
+Sperlinga
+Troina
+Valguarnera Caropepe
+Villarosa
+Acquedolci
+Alcara Li Fusi
+Alì
+Alì Terme
+Antillo
+Barcellona Pozzo Di Gotto
+Basico'
+Brolo
+Capizzi
+Capo D'Orlando
+Caprileone
+Caronia
+Casalvecchio Siculo
+Castel Di Lucio
+Castell'Umberto
+Castelmola
+Castroreale
+Cesaro'
+Condro'
+Falcone
+Ficarra
+Fiumedinisi
+Floresta
+Fondachelli Fantina
+Forza D'Agro'
+Francavilla Di Sicilia
+Frazzano'
+Furci Siculo
+Furnari
+Gaggi
+Galati Mamertino
+Gallodoro
+Giardini Naxos
+Gioiosa Marea
+Graniti
+Gualtieri Sicamino'
+Itala
+Leni
+Letojanni
+Librizzi
+Limina
+Lipari
+Longi
+Malfa
+Malvagna
+Mandanici
+Mazzara' Sant'Andrea
+Merì
+Milazzo
+Militello Rosmarino
+Mirto
+Mistretta
+Moio Alcantara
+Monforte San Giorgio
+Mongiuffi Melia
+Montagnareale
+Montalbano Elicona
+Motta Camastra
+Motta D'Affermo
+Naso
+Nizza Di Sicilia
+Novara Di Sicilia
+Oliveri
+Pace Del Mela
+Pagliara
+Patti
+Pettineo
+Piraino
+Raccuja
+Reitano
+Roccafiorita
+Roccalumera
+Roccavaldina
+Roccella Valdemone
+Rodì Milici
+Rometta
+San Filippo Del Mela
+San Fratello
+San Marco D'Alunzio
+San Pier Niceto
+San Piero Patti
+San Salvatore Di Fitalia
+Santa Domenica Vittoria
+Sant'Agata Di Militello
+Sant'Alessio Siculo
+Santa Lucia Del Mela
+Santa Marina Salina
+Sant'Angelo Di Brolo
+Santa Teresa Di Riva
+San Teodoro
+Santo Stefano Di Camastra
+Samponara
+Savoca
+Scaletta Zanclea
+Sinagra
+Spadafora
+Taormina
+Terme Vigliatore
+Torregrotta
+Torrenova
+Tortorici
+Tripi
+Tusa
+Ucria
+Valdina
+Venetico
+Villafranca Tirrena
+Alia
+Alimena
+Aliminusa
+Altavilla Milicia
+Altofonte
+Bagheria
+Balestrate
+Baucina
+Belmonte Mezzagno
+Bisacquino
+Blufi
+Bolognetta
+Bompietro
+Borgetto
+Caccamo
+Caltavuturo
+Campofelice Di Fitalia
+Campofelice Di Roccella
+Campofiorito
+Camporeale
+Capaci
+Carini
+Castelbuono
+Casteldaccia
+Castellana Sicula
+Castronuovo Di Sicilia
+Cefala' Diana
+Cefalu'
+Cerda
+Chiusa Sclafani
+Ciminna
+Cinisi
+Collesano
+Contessa Entellina
+Corleone
+Ficarazzi
+Gangi
+Geraci Siculo
+Giardinello
+Giuliana
+Godrano
+Gratteri
+Isnello
+Isola Delle Femmine
+Lascari
+Lercara Friddi
+Marineo
+Mezzojuso
+Misilmeri
+Monreale
+Montelepre
+Montemaggiore Belsito
+Palazzo Adriano
+Partinico
+Petralia Soprana
+Petralia Sottana
+Piana Degli Albanesi
+Polizzi Generosa
+Pollina
+Prizzi
+Roccamena
+Roccapalumba
+San Cipirello
+San Giuseppe Jato
+San Mauro Castelverde
+Santa Cristina Gela
+Santa Flavia
+Sciara
+Scillato
+Sclafani Bagni
+Termini Imerese
+Terrasini
+Torretta
+Trabia
+Trappeto
+Ustica
+Valledolmo
+Ventimiglia Di Sicilia
+Vicari
+Villabate
+Villafrati
+Acate
+Chiaramonte Gulfi
+Comiso
+Ispica
+Pozzallo
+Santa Croce Camerina
+Scicli
+Augusta
+Avola
+Buccheri
+Buscemi
+Canicattini Bagni
+Carlentini
+Cassaro
+Ferla
+Floridia
+Francofonte
+Lentini
+Melilli
+Noto
+Pachino
+Palazzolo Acreide
+Porto Palo Di Capo Passero
+Priolo Gargallo
+Rosolini
+Solarino
+Sortino
+Buseto Palizzolo
+Calatafimi
+Campobello Di Mazara
+Castellammare Del Golfo
+Castelvetrano
+Custonaci
+Erice
+Favignana
+Gibellina
+Marettimo
+Paceco
+Pantelleria
+Partanna
+Petrosino
+Poggioreale
+Salaparuta
+Salemi
+Santa Ninfa
+San Vito Lo Capo
+Valderice
+Vita

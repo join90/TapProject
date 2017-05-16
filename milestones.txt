@@ -1,0 +1,7 @@
+alta priorità
+
+
+
+bassa priorità
+
+memorizzare carrello nel db nel caso di utenti loggati

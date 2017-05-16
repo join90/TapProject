@@ -1,0 +1,138 @@
+#insert{
+	margin-top:30px;
+	color: #575757;
+	border: 0px solid black;
+	max-height: 1260px;
+}
+
+#imageMain{
+	border: 0px solid black;
+	max-height: 350px;
+	width: 300px;
+	margin-left: 30px;
+	margin-top: 30px;
+	line-height: 100px;
+    text-align: center;
+    float: left;
+    overflow: hidden;
+
+}
+
+.imageSecond{
+	text-align: center;
+	border: 0px solid black;
+	max-height: 350px;
+	width: 250px;
+	margin-left: 30px;
+	margin-top: 30px;
+	line-height: 100px;
+	overflow: hidden;
+	float: left;
+   
+}
+
+.imageSecond .boxImage {
+	margin-left: 30px;
+
+}
+
+.boxImage {
+	border: 0px solid black;
+	overflow: hidden;
+	float: left;
+	height: 225px;
+	width: 200px;
+	margin-right: 20px;
+	margin-left: 50px;
+	margin-bottom: -45px;
+	margin-top: 20px;
+}
+
+.boxImage img {
+	height: 178px;
+	width: 200px;
+}
+
+#elementoImg{
+	overflow: hidden;
+	border: 0px solid black;
+	min-width: 900px;
+	margin-top: 35px;
+	max-height: 380px;
+}
+
+.elemento div {
+	width: 150px;
+	float: left;
+}
+
+.elemento {
+	margin-top: 10px;
+	margin-bottom: 20px;
+	border: 0px solid black;
+}
+
+.sendproduct {
+	margin-left: 160px;
+	margin-top: -20px;
+	overflow: hidden;
+}
+
+.elemento input {
+	width: 400px;
+
+}
+
+.selectelement {
+	width: 200px;
+}
+
+.elementocheck div {
+	float: left;
+	width: 150px;
+}
+
+.elementprezzo div {
+	float: left;
+	width: 150px;
+
+}
+
+.elementoprezqnt div {
+	float: left;
+}
+
+.elementoprezqnt input {
+	margin-right: 50px;
+}
+
+.elementoprezqnt {
+	margin-bottom: 20px;
+}
+
+.tit{
+	margin-left: -45px;
+	margin-right: -100px;
+}
+
+.elementprezzo input {
+
+	width: 30px;
+}
+
+#tipo {
+	margin-left: -40px; 
+}
+.sendProductButton{
+	margin-left:120px;
+	float:left;
+	color:white;
+	margin-top:100px;
+	background-color: #fb3638;
+	width: 250px;
+	text-align: center;
+	height: 60px;
+	border-radius: 7px;
+	font-size: 18px;
+	border-width: 0px;
+}

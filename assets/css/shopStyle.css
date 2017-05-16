@@ -1,0 +1,230 @@
+#mainShopInfo{
+	float:left;
+	height: 320px;
+	margin-left: 20px;
+	/*! margin-top: 10px; */
+	width: 740px;
+	margin-bottom:100px;
+}
+.mainShopRating{
+	border: none;
+ 	float: right;
+	margin-top:-10px;
+	margin-right: 160px;
+}
+.mainShopRating > input{
+	display: none;
+}
+.mainShopRating > label:before{
+  margin: 5px;
+  font-size: 1.25em;
+  font-family: FontAwesome;
+  display: inline-block;
+  content: "\f005";
+}
+.mainShopRating > .half:before{
+	content: "\f089";
+	position: absolute;
+}
+.mainShopRating > label{
+	color: #ddd; 
+	float: right; 
+}
+.mainShopRating > input:checked ~ label,
+.mainShopRating:not(:checked){
+	color: #FFD700;  /*giallo*/
+}
+
+/*css delle stelle di valutazione */
+.shopProductRating{
+	border: none;
+ 	float: right;
+	margin-top:-5px;	
+}
+.shopProductRating > input { 
+	display: none; 
+}
+.shopProductRating > label:before{ 
+  margin: 5px;
+  font-size: 1.25em;
+  font-family: FontAwesome;
+  display: inline-block;
+  content: "\f005";
+}
+
+.shopProductRating > .half:before { 
+  content: "\f089";
+  position: absolute;
+}
+
+.shopProductRating > label { 
+  color: #ddd; 
+  float: right; 
+}
+/***** CSS Magic to Highlight Stars on Hover *****/
+.shopProductRating > input:checked ~ label, /* show gold star when clicked */
+.shopProductRating:not(:checked){
+	 color: #FFD700;  /*giallo*/
+}
+
+
+.mainSpecList{
+	font-size:14px;
+	list-style: none;
+	margin-left: -30px;
+	float:left;
+	width:400px;
+}
+.mainSpecList li{
+	margin:10px 0;
+}
+#publishedOrdersContainer{
+	/*! border:1px solid #929292; */
+	float: left;
+	min-height: 200px;
+	width: 1300px;
+	font-size: 14px;
+	/*! margin-top: 10px; */
+	margin-bottom: 30px;
+	margin-left: -20px;
+	margin-top:30px;
+}
+#shopPicturesContainer{
+	/*! border:1px solid black; */
+	float:left;
+	width:500px;
+	height:400px;
+}
+#shopMainPictureContainer{
+	border:1px solid #AEAEAE;
+	float:left;
+	width:100%;
+	overflow: hidden;
+}
+#shopMainPictureContainer img{
+	height:100%;
+	width:100%;
+}
+#mainShopTitle{
+	width: 740px;
+	min-height:70px;
+	border-bottom:2px solid #AEAEAE;
+	float:left;
+	margin-left: 20px;
+	font-size: 24px;
+}
+
+
+#shopTitle{
+	/*! font-weight: bold; */
+	font-size: 18px;
+	color: #575757;
+	margin-top: 5px;
+	/*! margin-bottom: 5px; */
+}
+#shopOldPrice{
+	/*! border:1px solid black; */
+	font-size: 16px;
+	text-decoration: line-through;
+	color:#ff1919;
+	margin-top: -20px;
+	text-align: center;
+	margin-bottom: 10px;
+}
+#shopPrice{
+	/*! font-weight: bold; */
+	font-size: 22px;
+	color:#ff1919;
+	margin-top: -10px;
+	text-align: center;
+}
+#shopQuantity{
+	font-size: 14px;
+	color:#6F5757;
+	margin-top: -20px;
+	text-align: center;
+	
+}
+#shopMoreInfo{
+	text-align: left;
+	font-size: 13px;
+	color:#575757;
+	line-height: 20px;
+}
+#shopEvaluation{
+	text-align: left;
+	font-size: 13px;
+	color:#575757;
+	line-height: 20px;
+	width: 100px;
+	margin-top:-10px;
+}
+.shopFeedbackContainer{
+	/*! border-bottom:1px solid #AEAEAE; */
+	float: left;
+	font-size:14px;
+	margin-top: 5px;
+}
+#shopStars{
+	border-right:1px solid #AEAEAE;
+	width: 100px;
+	height: 30px;
+	float: left;
+	border-bottom: 1px solid #AEAEAE;
+}
+#shopAuthor{
+	border-right:1px solid #AEAEAE;
+	float: left;
+	width: 300px;
+	height: 30px;
+	margin: 0px;
+	margin-left: 10px;
+	border-bottom: 1px solid #AEAEAE;
+}
+#shopProduct{
+	border-right:1px solid #AEAEAE;
+	float: left;
+	width: 300px;
+	height: 30px;
+	margin: 0px;
+	margin-left: 10px;
+	border-bottom: 1px solid #AEAEAE;
+}
+#shopFeedbackText{
+	/*! border:1px solid black; */
+	float: left;
+	width: 510px;
+	height: 30px;
+	margin: 0px;
+	margin-left: 10px;
+	border-bottom: 1px solid #AEAEAE;
+}
+#shopReply{
+	border-left:1px solid #AEAEAE;
+	float: left;
+	width: 150px;
+	height: 20px;
+	margin: 0px;
+	margin-left: 40px;
+	border-bottom: 1px solid #AEAEAE;
+	padding:10px;
+	margin-bottom:30px;
+}
+#shopShopReply{
+	border-left:1px solid #AEAEAE;
+	float: left;
+	width: 570px;
+	height: 20px;
+	margin: 0px;
+	border-bottom: 1px solid #AEAEAE;
+	padding:10px;
+}
+#shopFeedback{
+	border-top:1px solid #AEAEAE;
+	/*! float:right; */
+	width:1250px;
+	min-height: 200px;
+	/*! margin-right: 20px; */
+	margin-top: 20px;
+	margin-bottom:200px;
+}

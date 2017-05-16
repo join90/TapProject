@@ -1,0 +1,344 @@
+a{
+	text-decoration: none;
+}
+.CPcenter{
+	/*! border:1px solid black; */
+	width:550px;
+	height:150px;
+	/*! padding-top:10px; */
+	margin:10px;
+	margin-left:20px;
+	float:left;
+}
+.CPright{
+	border-left:1px solid #b3b3b3;
+	width:400px;
+	height:160px;
+	/*! padding:10px; */
+	margin:10px;
+	float:left;
+	/*! border: 1px solid black; */
+}
+.CPright  > p{
+	float:left;
+	font-size:14px;
+	width: 100%;
+	text-align: center;
+	margin: 0px;
+	color: #575757;
+	margin-top: -10px;
+	margin-bottom: 10px;
+}
+.newInsertionButton{
+	margin-left:60px;
+	float:left;
+	color:white;
+	margin-top:0px;
+	background-color: #fb3638;
+	width: 300px;
+	text-align: center;
+	height: 60px;
+	border-radius: 7px;
+	font-size: 18px;
+	line-height: 20px;
+}
+#CPimgShopContainer{
+	height:150px;
+	width:150px;
+	float: left;
+	border: 1px solid #AEAEAE;
+	border-radius: 2px;
+}
+#CPimgShopContainer img{
+	height:100%;
+	width:100%;
+}
+#CPshopName{
+	float:left;
+	margin-left: 10px;
+	height: 60px;
+	width: 370px;
+	/*! border: 1px solid black; */
+	font-size: 28px;
+	margin-top: 30px;
+}
+#CPoptions{
+	/*! border:1px solid black; */
+	float:left;
+	height: 20px;
+	width: 390px;
+	margin-top:20px;
+}
+#CPoptions a{
+	color:blue;
+	font-size:14px;
+	float: left;
+	margin-top: 15px;
+}
+#fileButton{
+	float:left;
+}
+
+#pictureButton{
+	float: left;
+	background-color: white;
+	border: 1px solid #4e4e4e;
+	border-radius: 3px;
+	width: 150px;
+	color: #4e4e4e;
+}
+#CPpage{
+	float:left;
+	width:95%;
+	margin: 30px;
+	color: #000;
+	border:0px solid black; 
+}
+#orders{
+	border:1px solid #929292;
+	float: left;
+	min-height: 200px;
+	width: 100%;
+	font-size: 14px;
+	margin-top: 10px;
+	margin-bottom: 50px;
+}
+.legend{
+	border:1px solid #595959;
+	height: 60px;
+	margin-bottom:5px;
+}
+.legend div{
+	height:29px;
+}
+.orderRow p{
+	margin-left:10px;
+	margin-top: 5px;
+}
+.legend .orderRow{
+	background-color:#9eb2ff;
+}
+.legend .productRow{
+	background-color:#71fff2;
+}
+.orderRow{
+	border:1px solid #626262;
+	height: 40px;
+	margin-bottom: 40px;
+	background-color: #ff6868;
+}
+.orderRow div{
+	float:left;
+	border-right: 1px solid black;
+}
+.productRow{
+	border:1px solid #626262;
+	height: 30px;
+	width:1211px;
+	margin-left: 50px;
+	background-color: #fff47c;
+}
+.client{
+	height:100%;
+	width:350px;
+}
+.dateTime{
+	height:100%;
+	width:265px;
+}
+.ship{
+	height:100%;
+	width:280px;
+}
+.programmed{
+	height:100%;
+	width:120px;
+}
+.payed{
+	height:100%;
+	width:100px;
+}
+.ready{
+	height:100%;
+	width:120px;
+}
+#readyHidden{
+	visibility: hidden;
+	height: 10px;
+	width:0px;
+}
+.succeded{
+	height:100%;
+	width:140px;
+}
+.ready img{
+	width:30px;
+	height:30px;
+	margin-left: 30px;
+}
+.succeded img{
+	width:30px;
+	height:30px;
+}
+.succeded a{
+	margin-left:20px;
+}
+.productTitle{
+	height:100%;
+	width:250px;
+}
+.brand{
+	height:100%;
+	width:162px;
+}
+.origin{
+	height:100%;
+	width:150px;
+}
+.price{
+	height:100%;
+	width:80px;
+}
+.quantity{
+	height:100%;
+	width:80px;
+}
+.priceTot{
+	height:100%;
+	width:80px;
+}
+.maturation{
+	height:100%;
+	width:150px;
+}
+.agriType{
+	height:100%;
+	width:130px;
+}
+.km0{
+	height:100%;
+	width:120px;
+}
+
+#publishedOrdersContainer{
+	/*! border:1px solid #929292; */
+	float: left;
+	min-height: 200px;
+	width: 1300px;
+	font-size: 14px;
+	/*! margin-top: 10px; */
+	margin-bottom: 30px;
+	margin-left: -20px;
+}
+#sellerActions{
+	/*! border:1px solid black; */
+	margin-top: -10px;
+	text-align: center;
+	font-weight: bold;
+}
+#sellerActions a, #sellerActions a:visited{
+	color:white;
+}
+#sellerActions .modify{
+
+	background-color: #0054ff;
+}
+#sellerActions .sale{
+	background-color: #008d00;
+	border: 0px;
+	color: white;
+	float: left;
+	width: 280px;
+	font-size: 16px;
+	margin-bottom:10px;
+}
+#sellerActions .delete{
+	background-color: red;
+	border: 0px;
+	color: white;
+	float: left;
+	width: 280px;
+	font-size: 16px;
+}
+#sellerActions .resale{
+	background-color: #008d00;
+	height:40px;
+	width:250px;
+	padding: 10px;
+	border:0px;
+	color: white;
+	font-size: 16px;
+}
+#feedbackContainer{
+	border:1px solid #929292;
+	float: left;
+	min-height: 200px;
+	width: 100%;
+	font-size: 14px;
+	margin-bottom: 30px;
+	color: #575757;
+}
+#feedbackLegend{
+	font-size:18px;
+	margin-bottom: 10px;
+	background-color: #c6d1ff;
+}
+.feedbackRow{
+	border-bottom:1px solid #AEAEAE;
+	float: left;
+	font-size:14px;
+	margin-top: 5px;
+}
+#stars{
+	border-right:1px solid #AEAEAE;
+	width: 100px;
+	height: 30px;
+	float: left;
+	margin-left: 10px;
+}
+#author{
+	border-right:1px solid #AEAEAE;
+	float: left;
+	width: 200px;
+	height: 30px;
+	margin: 0px;
+	margin-left: 10px;
+}
+#feedbackText{
+	border-right:1px solid #AEAEAE;
+	float: left;
+	width: 480px;
+	/*! height: 30px; */
+	margin: 0px;
+	margin-left: 10px;
+	min-height: 30px;
+}
+#reply{
+	float: left;
+	width: 440px;
+	height: 30px;
+	margin: 0px;
+	margin-left: 10px;
+}
+#replyText{
+
+	width: 350px;
+	color: #575757;
+}
+#replyFeed{
+	float: left;
+	margin-left: 10px;
+}
+#feedbackReplyButton{
+	
+}
+.modificato{
+	visibility: hidden;
+	height:0px;
+	width:0px;
+	float:left;
+}
+.superContainer{
+	float:left;
+	margin-bottom:5px;
+}

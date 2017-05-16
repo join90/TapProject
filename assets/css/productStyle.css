@@ -1,0 +1,370 @@
+#productPage{
+	/*! border:1px solid black; */
+	float:left;
+	width:95%;
+	min-height:800px;
+	margin: 30px;
+	color: #575757;
+}
+#picturesContainer{
+	/*! border:1px solid black; */
+	float:left;
+	width:400px;
+	/*! height:400px; */
+}
+#mainPictureContainer{
+	border:1px solid #AEAEAE;
+	float:left;
+	width:100%;
+	height: 300px;
+	overflow: hidden;
+}
+#mainPictureContainer img{
+	height:100%;
+	width:100%;
+}
+.miniPictureContainer{
+	border:1px solid #AEAEAE;
+	float:left;
+	width:100px;
+	height:100px;
+	margin-top: 20px;
+	margin-left: 22px;
+}
+.miniPictureContainer img{
+	height:100%;
+	width:100%;
+}
+#textInfo{
+	border:1px solid black;
+	float:left;
+	width:400px;
+}
+#title{
+	width: 840px;
+	min-height:70px;
+	border-bottom:2px solid #AEAEAE;
+	float:left;
+	margin-left: 20px;
+	font-size: 24px;
+}
+#sell{
+	border-bottom:1px solid #AEAEAE;
+	float:left;
+	width:840px;
+	height: 140px;
+	margin-left: 20px;
+	margin-top: 10px;
+}
+#price{
+	float:left;
+
+	margin-top: 30px;
+	margin-left: 30px;
+	font-size: 30px;
+}
+#quant{
+	float:left;
+	margin-top: 45px;
+	margin-left: 20px;
+}
+#selectedQuantity{
+	float:left;
+	width:20px;
+	margin-top: 40px;
+	margin-left: 10px;
+	margin-right: -10px;
+}
+#disponib{
+	float:left;
+	margin-top: 25px;
+	margin-left: 20px;
+}
+#disponib span{
+	color:green;
+}
+#instructions{
+	float:left;
+	font-size: 11px;
+	margin-top: 0px;
+	margin-left: 30px;
+}
+#cartButton{
+	float:left;
+	background-color: #fb3638;
+	border: 2px solid #fb3638;
+	border-radius: 10px;
+	height: 40px;
+	width: 170px;
+	color: white;
+	font-size: 18px;
+	margin-top: 30px;
+	margin-left: 20px;
+	text-align: center;
+}
+#cartButton p{
+	margin-top:8px;
+}
+#specifications{
+	border-right:1px solid #AEAEAE;
+	float:left;
+	width:380px;
+	height: 290px;
+	margin-left: 20px;
+	margin-top: 10px;
+}
+.specList{
+	font-size:14px;
+	list-style: none;
+	margin-left: -30px;
+	float:left;
+}
+.specList li{
+	margin:10px 0;
+}
+#productVote, #shopVote{ /*paragrafo che contiene la valutazione ma non è visibile (serve al jquery per 'cliccare' le stelle) */
+	visibility:hidden;
+	height:0px;
+	width:0px;
+	float:left;
+}
+#shopInfo{
+	/*! border-bottom:1px solid #AEAEAE; */
+	float:left;
+	/*! height: 100px; */
+	margin-left: 20px;
+	margin-top: 10px;
+}
+#imgShopContainer{
+	height:80px;
+	width:80px;
+	float: left;
+	border: 1px solid #AEAEAE;
+	border-radius: 2px;
+}
+#imgShopContainer img{
+	height:100%;
+	width:100%;
+}
+#infoShopContainer{
+	float:left;
+	margin-top: -10px;
+	margin-left: 10px;
+}
+#description{
+	border-top:1px solid #AEAEAE;
+	float:left;
+	width:850px;
+	min-height: 150px;
+	margin-left: 420px;
+	margin-top: 10px;
+}
+#descriptionText{
+	float:left;
+	font-size:14px;
+	margin-top: 0px;
+}
+#feedback{
+	border-top:1px solid #AEAEAE;
+	float:right;
+	width:840px;
+	min-height: 200px;
+	/*! margin-right: 20px; */
+	margin-top: 20px;
+}
+.feedbackContainer{
+	/*! border-bottom:1px solid #AEAEAE; */
+	float: left;
+	font-size:14px;
+	margin-top: 5px;
+}
+#stars{
+	border-right:1px solid #AEAEAE;
+	width: 100px;
+	height: 30px;
+	float: left;
+	border-bottom: 1px solid #AEAEAE;
+}
+#author{
+	border-right:1px solid #AEAEAE;
+	float: left;
+	width: 200px;
+	height: 30px;
+	margin: 0px;
+	margin-left: 10px;
+	border-bottom: 1px solid #AEAEAE;
+}
+
+#feedbackText{
+	/*! border:1px solid black; */
+	float: left;
+	width: 480px;
+	height: 30px;
+	margin: 0px;
+	margin-left: 10px;
+	border-bottom: 1px solid #AEAEAE;
+}
+#reply{
+	border-left:1px solid #AEAEAE;
+	float: left;
+	width: 150px;
+	height: 20px;
+	margin: 0px;
+	margin-left: 40px;
+	border-bottom: 1px solid #AEAEAE;
+	padding:10px;
+	margin-bottom:30px;
+}
+#shopReply{
+	border-left:1px solid #AEAEAE;
+	float: left;
+	width: 570px;
+	height: 20px;
+	margin: 0px;
+	border-bottom: 1px solid #AEAEAE;
+	padding:10px;
+}
+#insertComment{
+	background-color: #fb3638;
+	border: 2px solid #fb3638;
+	border-radius: 2px;
+	height: 25px;
+	width: 150px;
+	color: #fff;
+	font-size: 14px;
+	margin-top: 30px;
+	float: left;
+	text-align: center;
+}
+.sectionName{
+	font-size:18px;
+}
+#feedbackInsertionContainer{
+	/*! border:1px solid black; */
+	float:right;
+	width: 840px;
+	margin-top: 20px;
+	visibility: hidden;
+	height: 0px;
+}
+#starsSelector{
+	/*! border:1px solid black; */
+	width: 100%;
+	height: 50px;
+}
+#userComment{
+	width:840px;
+	height: 100px;
+	float: left;
+}
+.feedbackSubmit{
+	background-color: #fb3638;
+	border: 2px solid #fb3638;
+	border-radius: 2px;
+	height: 25px;
+	width: 150px;
+	color: #fff;
+	font-size: 14px;
+	float: left;
+	text-align: center;
+	margin-top: 10px;
+}
+
+/****** Style Star Rating Widget *****/
+
+#hide {
+    display:none;
+}
+ 
+.rating input {
+    position:absolute;
+    filter:alpha(opacity=0);
+    -moz-opacity:0;
+    -khtml-opacity:0;
+    opacity:0;
+    cursor:pointer;
+    width:17px;
+}
+ 
+.rating span {
+    width:24px;
+    height:16px;
+    line-height:16px;
+    padding:1px 22px 1px 0; /* 1px FireFox fix */
+    background:url(../images/stars2.png) no-repeat -22px 0;
+}
+ 
+/* Change span immediately following the checked radio */
+ 
+.rating input:checked + span {
+    background-position:-22px 0;
+}
+ 
+/* Reset all remaining stars back to default background.
+   This supersedes the above due to its ordering. */
+ 
+.rating input:checked + span ~ span {
+    background-position:0 0;
+}
+
+
+/*css delle stelle di valutazione */
+.productRating{
+	border: none;
+ 	float: right;
+	margin-top:-5px;	
+}
+.productRating > input { 
+	display: none; 
+}
+.productRating > label:before{ 
+  margin: 5px;
+  font-size: 1.25em;
+  font-family: FontAwesome;
+  display: inline-block;
+  content: "\f005";
+}
+
+.productRating > .half:before { 
+  content: "\f089";
+  position: absolute;
+}
+
+.productRating > label { 
+  color: #ddd; 
+  float: right; 
+}
+/***** CSS Magic to Highlight Stars on Hover *****/
+.productRating > input:checked ~ label, /* show gold star when clicked */
+.productRating:not(:checked){
+	 color: #FFD700;  /*giallo*/
+}
+
+.shopRating{
+	border: none;
+ 	float: right;
+	margin-top:-5px;
+}
+.shopRating > input{
+	display: none;
+}
+.shopRating > label:before{
+  margin: 5px;
+  font-size: 1.25em;
+  font-family: FontAwesome;
+  display: inline-block;
+  content: "\f005";
+}
+.shopRating > .half:before{
+	content: "\f089";
+	position: absolute;
+}
+.shopRating > label{
+	color: #ddd; 
+	float: right; 
+}
+.shopRating > input:checked ~ label,
+.shopRating:not(:checked){
+	color: #FFD700;  /*giallo*/
+}
+/*fine */

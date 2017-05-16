@@ -1,0 +1,162 @@
+#mainCart{
+	float:left;
+	width:95%;
+	min-height:800px;
+	margin: 30px;
+	color: #575757;
+}
+#cartLegend{
+	border:1px solid #AEAEAE;
+	margin-top: 20px;
+}
+#cartLegend .cartProductTitle{
+	margin-left: 120px;
+}
+#cartLegend .cartQuantity{
+	margin-left: 5px;
+}
+#cartLegend .cartProductCost{
+	margin-left: 410px;
+	width: 100px;
+}
+#cartLegend .cartProductTotCost{
+	width: 100px;
+	margin-left: 20px;
+}
+.cartOrder{
+
+	border: 1px solid #AEAEAE;
+	border-radius: 5px;
+	width: 98%;
+	float: left;
+	padding: 10px;
+	margin-bottom: 20px;
+}
+.cartProductImage{
+
+	height: 100px;
+	width: 100px;
+	border: 1px solid black;
+	float: left;
+}
+.cartProductImage img{
+	
+	height: 100%;
+	width: 100%;
+}
+.cartProductTitle{
+	float: left;
+	border: ;
+	width: 400px;
+	margin-left: 10px;
+}
+.cartQuantity{
+
+	width: 50px;
+	float: left;
+	margin-left: 20px;
+}
+.cartQuantInput{
+
+	margin-top: 15px;
+	float: left;
+}
+.cartQuantInput p{
+	
+	margin: 0px;
+	float: left;
+	font-size: 14px;
+	margin-top: 5px;
+}
+#cartQuantityInput{
+
+	width: 40px;
+	color: #575757;
+	margin-left: 5px;
+}
+.cartOrderButtonsContainer{
+
+	float: left;
+	margin-top: 12px;
+}
+.cartOrderButtons{
+	background-color: #ff4848;
+	width:100px;
+	height: 25px;
+	border-width: 0px;
+	border-radius: 5px;
+	margin-left:10px;
+	float: left;
+	color: white;
+	font-size: 14px;
+	text-align: center;
+}
+.cartProductCost{
+	width: 50px;
+	float: left;
+	margin-left: 60px;
+}
+.cartProductTotCost{
+	width: 50px;
+	float: left;
+	margin-left: 60px;
+}
+#shippingCostContainer{
+	float:left;
+	width:100%;
+}
+#shippingCostTitle{
+	float: right;
+	margin-right: 10px;
+}
+#shippingCost{
+	float: right;
+	margin-right: 40px;
+}
+#checkoutContainer{
+	float:left;
+	width:100%;
+}
+#checkoutTitle{
+	float: right;
+	margin-right: 10px;
+}#checkout{
+	float: right;
+	margin-right: 110px;
+}
+#lowBar{
+	float:left;
+	width:100%;
+	margin-top: 20px;
+}
+.cartFinishButtons{
+	background-color: #ff4848;
+	width:400px;
+	height: 60px;
+	border-width: 0px;
+	border-radius: 5px;
+	margin-left:10px;
+	float: right;
+	color: white;
+	font-size: 18px;
+	text-align: center;
+}
+.form{
+	float:left;
+}
+#shippingTime{
+	float:right;
+	margin-right:40px;
+	margin-top:10px;
+}
+#shippingTime p{
+	float:left;
+	margin-top:0px;
+	margin-right:10px;
+}
+.hour{
+
+}
+.minute{
+	
+}

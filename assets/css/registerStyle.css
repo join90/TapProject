@@ -1,0 +1,273 @@
+body{
+	border:0px solid black;
+	background: url(../images/back.jpg) top left no-repeat;
+	position: relative;
+	font-family: tahoma;
+}
+.main{
+	background-color: white;
+	width:100%;
+	min-width: 800px;
+	max-width: 1366px;	
+	margin:-20 auto;
+	margin-top:20px;
+	float:left;
+	border-radius: 8px;
+	box-shadow:0px -1px 7px 0px rgb(144, 144, 144);
+	border: 1px solid #fff;
+	min-height: 1000px;
+}
+.header{
+	width: 100%;
+	height: auto;
+	float:left;
+	margin-top:20px;
+
+	border-top: 2px solid #d7d7d7;
+}
+.logo{
+	/*border:5px solid black;*/
+	width:310px;
+	width: auto;
+	height:120px;
+	padding:0px;
+	margin:10px;
+	float:left;
+	margin-left: 38%;
+}
+.logo img{
+	height:100%;
+	width:100%;
+}
+
+.radio input {
+	margin-right: 7px;
+}
+
+.orariAperturap{
+	margin-top: -20px;
+	/*border: 1px solid black;*/
+	height: 23px;
+	/*margin-left: 0px;*/
+}
+
+.orariAperturam{
+	margin-top: 60px;
+	margin-bottom: 40px;
+	/*border: 1px solid black;*/
+	height: 23px;
+	/*margin-left: 0px;*/
+}
+
+
+.orariAperturam .tipo{
+	float: left;
+	/*border:1px solid black;*/
+
+	
+}
+
+.orariAperturap .tipo{
+	float: left;
+	/*border:1px solid black;*/
+}
+
+
+.orariAperturam .giornatam{
+	/*border:1px solid black;*/
+	margin-left: 200px;
+}
+
+.orariAperturap .giornatap{
+	/*border:1px solid black;*/
+	margin-left: 200px;
+}
+.orariAperturam .giornatam .selectm {
+	float: left;
+}
+
+.orariAperturap .giornatap .selectm {
+	float: left;
+}
+
+.orariAperturam .giornatam .titlem{
+	float: left;
+	margin-left: 3px;
+	margin-right: 3px;
+}
+
+.orariAperturap .giornatap .titlem{
+	float: left;
+	margin-left: 3px;
+	margin-right: 3px;
+}
+
+.dom .title{
+	float: left;
+	width: 150px;
+}
+
+.dom{
+	margin-top: 15px;
+}
+
+#domcheck{
+	margin-left: 150px;
+	/*border:1px solid black*/
+}
+
+.dom #costo{
+	width: 30px;
+	float:left;
+	margin-left: 5px;
+}
+
+#euro{
+	/*border:1px solid;*/
+	margin-left: 189px;
+}
+
+.radio{
+	margin-right: 20px;
+	float: left;
+}
+
+.address .indirizzo .title {
+	width: 145px;
+}
+.titler {
+	margin-right: 2px;
+}
+.log .title{
+	width: 170px;
+}
+.log div {
+	float: left;
+	width: 100px;
+}
+
+.log input {
+	margin-left: -15px;
+
+}
+
+.address div {
+	float: left;
+	/*! border:1px solid black; */
+	/*! width: 1px; */
+	margin-right: 10px;
+}
+
+#sendlogin {
+	
+	margin-top: 50px;
+}
+
+.giorniApertura div {
+	 float: left;
+}
+
+.giorniApertura{
+	/*border: 1px solid black;*/
+	width: 720px;
+}
+
+.giorniApertura #radios {
+	/*border:1px solid;*/
+	margin-left: 48px;
+}
+
+#resultTitle {
+  float :left;
+  font-size: 20px;
+	margin-left: 340px;
+	color: gray;
+	margin-top: 30px;
+}
+
+#textSeller {
+  	/*float :left;*/
+	margin-left: 100px;
+	color: gray;
+	margin-top: 30px;
+  	font-size: 17px;
+}
+
+.indirizzo input{
+	width: 200px;
+}
+.address {
+	/*border:1px solid black;*/
+  height: 23px;
+	width: 600px;
+	float: left;
+	margin-bottom: 20px;
+}
+
+.numeroc input{
+	width: 35px;
+}
+
+.address .title{
+	width: 75px;
+}
+
+.log .selectelement{
+	width: 144px;
+	margin-left: -15px;
+}
+
+#radios {
+	margin-left: 60px;
+}
+
+#sendlogin input{
+	width: auto;
+	margin-left: 35%;
+	/*border:1px solid black;*/
+	margin-top: 20px;
+}
+
+#login {
+	/*border:5px solid black;*/
+	width: 600px;
+	margin-top: 22%;
+	margin-left: 35%;
+	margin-right: 42%;
+}
+
+.log {
+	margin-bottom: 20px;
+}
+
+.downBar{
+	width: 100%;
+	height: 40px;
+	float:left;
+	margin-top:0px;
+
+	background-color:rgba(73, 179, 0, 0.9);
+}
+.downBar p{
+	color:white;
+	font-size:16px;
+	margin-left: 26%;
+	width: auto;
+	margin-top: 10px;
+}
+
+.footer{
+	width: 100%;
+	height: 50px;
+	float:left;
+	margin-top:30px;
+	background-color: #323232;
+	border-radius: 8px;
+	box-shadow: 0px 3px 7px 0px rgb(144, 144, 144);
+	margin-bottom: 30px;
+}
+.footer p{
+	text-align: center;
+	color: white;
+	font-size: 15px;
+}
